@@ -8,7 +8,7 @@
 
 💼 Currently, I'm honing my skills as a web developer and machine learning practitioner, actively seeking opportunities to contribute to innovative projects. If you're looking to collaborate on exciting web development or machine learning projects, let's connect!
 
-📫 Feel free to reach out to me through email at "rahulsingh29004@gmail.com" or connect with me on LinkedIn "https://www.linkedin.com/in/rahuls29/". I'm open to discussing ideas, sharing knowledge, and exploring new opportunities.
+📫 Feel free to reach out to me through email at ### "rahulsingh29004@gmail.com" ### or connect with me on LinkedIn ### "https://www.linkedin.com/in/rahuls29/" ###. I'm open to discussing ideas, sharing knowledge, and exploring new opportunities.
 
 🌟 Let's code the future together and make a positive impact through technology! ✨ 
 
