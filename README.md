@@ -1,4 +1,4 @@
-👋 Hello there! I'm Rahul Singh, a passionate web developer and machine learning enthusiast.
+## 👋 Hello there! I'm Rahul Singh, a passionate web developer and machine learning enthusiast.
 
 🌐 As a web developer, I specialize in creating responsive and user-friendly websites using modern technologies such as HTML5, CSS3, JavaScript, and popular frameworks like React.
 
