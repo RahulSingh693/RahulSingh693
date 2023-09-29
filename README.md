@@ -1,5 +1,4 @@
 ## 👋 Hello there! I'm Rahul Singh, a passionate web developer and machine learning enthusiast.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsingh693&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh693" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsingh693" alt="rahulsingh693" /></a> </p>
 
 🌐 As a web developer, I specialize in creating responsive and user-friendly websites using modern technologies such as HTML5, CSS3, JavaScript, and popular frameworks like React.
