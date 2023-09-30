@@ -21,6 +21,10 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RahulSingh693&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
